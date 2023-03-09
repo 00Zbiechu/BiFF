@@ -1,5 +1,8 @@
 # Clock
 
+![image](https://user-images.githubusercontent.com/48093509/223965675-e97e1f33-083c-4d99-9d38-54379f315fe5.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
 ## Development server
